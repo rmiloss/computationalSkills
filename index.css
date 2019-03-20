@@ -1,0 +1,36 @@
+p {
+color: #ffffff;
+background-color:  #000000:
+}
+
+.beautiful {
+  color: #e01616;
+  background-color: blue;
+  }
+
+  .nice, .nice th, .nice tr, .nice td {
+    border: solid;
+  }
+.header th {
+  background-color: gray;
+}
+
+#ourList {background-color: yellow;
+}
+
+img {
+height: 200px;
+width: 200PX;
+}
+
+.center {
+  margin: 10px; /* outside of the border*/
+  padding: 5px; /*inside of the border*/
+  width: 50%;
+  text-align: center;
+  border: solid;
+}
+
+.out {
+  border: dashed;
+}
