@@ -1,36 +1,36 @@
-p {
-color: #ffffff;
-background-color:  #000000:
+p{
+    color: purple;
+    font-weight: bold;
+    background-color: chartreuse;
 }
 
-.beautiful {
-  color: #e01616;
-  background-color: blue;
-  }
-
-  .nice, .nice th, .nice tr, .nice td {
-    border: solid;
-  }
-.header th {
-  background-color: gray;
+ul{
+    font-style: italic;
 }
 
-#ourList {background-color: yellow;
+table, th, td{
+    border: 1px solid black;
 }
 
-img {
-height: 200px;
-width: 200PX;
+.coolPeople{
+    font-family: "Helvetica", "Times New Roman", Times, serif;
+    border-spacing:0; /* Removes the cell spacing via CSS */
+    border-collapse: collapse;  /* Optional - if you don't want to have double border where cells touch */
 }
 
-.center {
-  margin: 10px; /* outside of the border*/
-  padding: 5px; /*inside of the border*/
-  width: 50%;
-  text-align: center;
-  border: solid;
+.tableTitles{
+    background-color: #77a9ef;
 }
 
-.out {
-  border: dashed;
+div{
+    margin: auto;
+    width: 50%;
+    border: 3px solid green;
+    padding: 10px;
+}
+
+.center{
+    margin: auto;
+    width: 50%;
+    text-align: center;
 }
